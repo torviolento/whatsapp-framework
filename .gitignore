@@ -18,4 +18,5 @@ tags.txt
 modules/broadcast/*
 modules/wolfram/*
 modules/yesno/*
-modules/elo/*
+modules/elo/*config.py
+*.pyc
